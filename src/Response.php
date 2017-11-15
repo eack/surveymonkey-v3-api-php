@@ -50,7 +50,7 @@ class Response
 	*/
 	public function getRequestObject()
 	{
-		return $this->response;
+		return $this->request;
 	}
 
 	/**
